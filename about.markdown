@@ -25,16 +25,16 @@ A recording of [22b Psalm 30](https://shenandoah.harmony.sacredharpbremen.org/22
 ## Frequent Questions
 
 ### What can I expect at my first singing?
-When you first come to a local singing you can expect to be greeted by a local singer. They'll provide you with a loaner copy of a tunebook and help you find the right part to sing with. We sing in four-part harmony: tenor (melody), treble (high harmony), alto (low harmony), and bass (low harmony). Each part sits on one side of an inward-facing square. If you are unsure of which part to sing, many folks find it easiest to start with the tenor (melody.) Feel free to move around the square and sit with different parts to find the one that fits your voice best!
+When you first come to a local singing you can expect to be greeted by a local singer. They'll provide you with a loaner copy of a tunebook and help you find the right part to sing with. We sing in four-part harmony: *tenor* (melody), *treble* (high harmony), *alto* (low harmony), and *bass* (low harmony). Each part sits on one side of an inward-facing square. If you are unsure of which part to sing, many folks find it easiest to start with the tenor (melody.) Feel free to move around the square and sit with different parts to find the one that fits your voice best!
 
-The next thing you'll notice is that we like to sing *loud!* Sacred Harp is traditionally sung at full voice. This gives the music a unique drive and energy that we love. Feel free to sing as loud as you like!
+The next thing you'll notice is that we like to sing **loud**! Sacred Harp is traditionally sung at full voice. This gives the music a unique drive and energy that we love. Feel free to sing as loud as you like!
 
 Finally, you'll see that each song is lead by a different person. The song leader will call a tune from the book and lead the tune from the middle of the square. An experienced singer will then "key" the song, indicating the starting point for each part. The song leader will then start the song by moving their arm up and down to "beat time", or indicate the tempo. 
 
 As you are learning to sing Sacred Harp music, you may have lots of questions. Please feel free to ask them!
 
 ### Is this a performance group? Do I have to audition?
-Not at all! Sacred Harp singing is a social singing tradition. We sing for each other, simply for the sake of making music together. Some experienced singers will occasionally demonstrate Sacred Harp singing at workshops, schools, or music festivals, but by and large we just sing for its own sake and for the love of the music.
+Not at all! Sacred Harp singing is a social singing tradition. We sing for each other, simply for the sake of making music together.  Some experienced singers will occasionally demonstrate Sacred Harp singing at workshops, schools, or music festivals, but by and large we just sing for its own sake and for the love of the music.
 
 ## Resources to help you learn
 
