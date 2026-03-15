@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: What is Sacred Harp Singing?
 permalink: /about/
 ---
 
