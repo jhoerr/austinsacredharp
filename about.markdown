@@ -12,13 +12,13 @@ Sacred Harp singing is open to everyone and is friendly to both new and experien
 
 Below are a few videos of Sacred Harp singing. If you like the sound of these, come sing with us!
 
-<div style="padding-top:1rem">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/hY1aPqkAxto?si=R5708k1RQnWHM84_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="padding-top:1rem; position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+<iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/hY1aPqkAxto?si=R5708k1RQnWHM84_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 A recording of [189 Montgomery](https://sacredharpbremen.org/189-montgomery/) from the 2025 Sacred Harp.
 
-<div style="padding-top:2rem">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/3mSeUDVYDQE?si=TiXOMkOu6mhZDioC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="margin-top:2rem; position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+<iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/3mSeUDVYDQE?si=TiXOMkOu6mhZDioC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 A recording of [22b Psalm 30](https://shenandoah.harmony.sacredharpbremen.org/22b-psalm-30/) from the Shenandoah Harmony.  
 
@@ -45,4 +45,6 @@ An approachable introduction to the history and practice of Sacred Harp singing.
 [Learn to sing Sacred Harp](https://youtu.be/RMcBLxOTXhI?si=8LBwv49VskBizQga) (YouTube playlist)  
 An experienced singer sings each of the *tenor* (melody, third line), *treble* (high harmony, first line), and *alto* (low harmony, second line) parts of well-known songs. A recording is then played at the end for you to sing along with.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/RMcBLxOTXhI?si=RcAkJkBhv1hjKx0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+<iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.youtube.com/embed/RMcBLxOTXhI?si=RcAkJkBhv1hjKx0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

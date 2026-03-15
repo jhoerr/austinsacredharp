@@ -6,7 +6,7 @@
 layout: page
 title: Austin Area Singings
 ---
-Local singings are a great way to get introduced to the tradition and style of Sacred Harp singing, meet other local singers, and build your singing skill and confidence. There are multiple local singings every month in and around Austin. 
+Local singings are a great way to get introduced to the tradition and style of [Sacred Harp singing](/about), meet other local singers, and build your singing skill and confidence. There are multiple local singings every month in and around Austin. 
 
 These are free events open to the public. Absolutely no experience is needed. All are welcome, regardless of faith (or lack thereof), gender, or orientation.  Come try it out! 
 
