@@ -13,12 +13,12 @@ Sacred Harp singing is open to everyone and is friendly to both new and experien
 Below are a few videos of Sacred Harp singing. If you like the sound of these, come sing with us!
 
 <div style="padding-top:1rem">
-<iframe width="800" height="450" src="http://www.youtube.com/embed/hY1aPqkAxto" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/hY1aPqkAxto?si=R5708k1RQnWHM84_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 A recording of [189 Montgomery](https://sacredharpbremen.org/189-montgomery/) from the 2025 Sacred Harp.
 
 <div style="padding-top:2rem">
-<iframe width="800" height="450" src="http://www.youtube.com/embed/3mSeUDVYDQE" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/3mSeUDVYDQE?si=TiXOMkOu6mhZDioC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 A recording of [22b Psalm 30](https://shenandoah.harmony.sacredharpbremen.org/22b-psalm-30/) from the Shenandoah Harmony.  
 
