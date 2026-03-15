@@ -6,16 +6,17 @@
 layout: page
 title: Austin Area Singings
 ---
-There are multiple regular singings every month in and around Austin. These local singings are a great way to meet other local singers and build your skill and confidence as a Sacred Harp singer.
+Local singings are a great way to get introduced to the tradition and style of Sacred Harp singing, meet other local singers, and build your singing skill and confidence. There are multiple local singings every month in and around Austin. 
 
-These are free events open to the public. All are welcome, regardless of faith, gender, or orientation. Absolutely no experience is needed. Come try it out!
+These are free events open to the public. Absolutely no experience is needed. All are welcome, regardless of faith (or lack thereof), gender, or orientation.  Come try it out! 
 
-## Weekly Singings
+Visit our [Facebook group](https://www.facebook.com/groups/218701011537104) for the latest updates and announcements.
+
+## Austin Singings
 **Every Tuesday, 6:30-8:30 PM**  
 [Hyde Park Presbyterian Church](https://maps.app.goo.gl/nFP9pvY7GyAPjib17), Fellowship Hall  
 3913 Avenue B, Austin, TX 78751
 
-## Monthly Singings
 **Second Saturday, 2-4 PM**  
 [Buda United Methodist Church](https://maps.app.goo.gl/dijpMchsjkgPuktNA)  
 302 Elm St, Buda, TX 78610  
@@ -29,9 +30,6 @@ These are free events open to the public. All are welcome, regardless of faith, 
 ## San Antonio
 **First Saturday, 10 AM - 12 PM**  
 Coker United Methodist Church, Wesley Hall, Room TBD  
-
-## Houston
-TBD
 
 ## Lubbock
 **Every Sunday, 4-5 PM**  
