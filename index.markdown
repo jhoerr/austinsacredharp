@@ -10,9 +10,10 @@ Local singings are a great way to get introduced to the tradition and style of [
 
 These are free events open to the public. Absolutely no experience is needed. All are welcome, regardless of faith (or lack thereof), gender, or orientation.  Come try it out!
 
-Visit our [Facebook group](https://www.facebook.com/groups/218701011537104) for the latest updates and announcements.
+## Contact us
+Visit our [Facebook group](https://www.facebook.com/groups/218701011537104) for the latest announcements, or email us at [info@austinsacredharp.com](mailto:info@austinsacredharp.com).
 
-<br/>
+## Local singings
 **Every Tuesday, 6:30-8:30 PM**  
 [Hyde Park Presbyterian Church](https://maps.app.goo.gl/nFP9pvY7GyAPjib17), Wooten Hall  
 3913 Avenue B, Austin, TX 78751  

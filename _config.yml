@@ -22,6 +22,9 @@ title: Austin Sacred Harp
 email: info@austinsacredharp.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sacred Harp singing in and around Austin, TX
+author:
+  name: Austin Sacred Harp
+  email: "info@austinsacredharp.com"
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jhoerr.github.io/austinsacredharp" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
