@@ -4,7 +4,7 @@ title: What is Sacred Harp Singing?
 permalink: /about
 ---
 
-Sacred Harp is an *a capella*, four-part American social singing tradition that dates back to the 18th century. It's often called "shape-note" singing due to the special shaped noteheads in the music we sing from. These shaped notes were devised as a tool to help folks more easily sight read and make music together. 
+Sacred Harp is an *a capella*, four-part American social singing tradition that dates back to the 18th century. It's often called "shape note" singing due to the special shaped noteheads in the music we sing from. These shaped notes were devised as a tool to help folks more easily sight read and make music together. 
 
 ![Image](/images/four-shape-scale.gif)
 
@@ -29,7 +29,7 @@ When you first come to a local singing you can expect to be greeted by a local s
 
 The next thing you'll notice is that we like to sing **loud**! Sacred Harp is traditionally sung at full voice. This gives the music a unique drive and energy that we love. Feel free to sing as loud as you like!
 
-Finally, you'll see that each song is lead by a different person. The song leader will call a tune from the book and lead the tune from the middle of the square. An experienced singer will then "key" the song, indicating the starting point for each part. The song leader will then start the song by moving their arm up and down to "beat time", or indicate the tempo. 
+Finally, you'll see that each song is lead by a different person. The song leader will call a tune from the book and lead the tune from the middle of the square. An experienced singer will then "key" the song, indicating the starting pitch (tone) for each part. The song leader will then start the song by moving their arm up and down to "beat time", or indicate the tempo. 
 
 As you are learning to sing Sacred Harp music, you may have lots of questions. Please feel free to ask them!
 
